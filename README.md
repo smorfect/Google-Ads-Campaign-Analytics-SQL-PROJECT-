@@ -5,6 +5,9 @@ SQL-based end-to-end analysis of simulated Google Ads data — profiling, cleani
 This project simulates the role of a data analyst working with Google Ads campaign data for a **Data Analytics Course**.  
 The dataset represents ad performance metrics (*impressions, clicks, conversions, costs, sales*) across **campaigns, locations, devices, and keywords**.  
 
+The dataset used for this project is publicly available on Kaggle and can be accessed here:  
+[Google Ads Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/nayakganesh007/google-ads-sales-dataset)
+
 The dataset used for this project is publicly available on Kaggle and can be accessed here.
 📂 Dataset: [Google Ads Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/nayakganesh007/google-ads-sales-dataset)  
 
@@ -75,7 +78,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 - **Keywords** → *“Online Data Analytics”* & *“Learn Data Analytics”* delivered >2.8K conversions each.  
 - **Time Trends** → Peaks on *Nov 14 & 18* (highest conversions); dips on *Nov 11 & 17*.  
 
-📌 **Key Takeaways**  
+**Key takeaways:**  
 - Campaigns are profitable overall (ROAS 6.85).  
 - Beginners & Certification = key revenue drivers.  
 - Gurgaon = most efficient market.  
@@ -89,7 +92,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 
 ## 5. Insights Deep Dive & Recommendations  
 
-### 🔹 Campaign Performance  
+### 5.1 Campaign Performance 
 - Beginners & Certification = highest revenue (~₹750K each).  
 - Advanced & Training = good but slightly lower ROI.  
 - Conversion rates consistent (~4.6–4.9%).  
@@ -103,7 +106,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 
 ---
 
-### 🔹 Location Effectiveness  
+### 5.2 Location Effectiveness 
 - Gurgaon = strongest (ROAS 7.07).  
 - Bengaluru & Mumbai stable (6.83).  
 - Hyderabad underperformed (6.67).  
@@ -117,7 +120,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 
 ---
 
-### 🔹 Device Insights  
+### 5.3 Device Insights 
 - Desktop CR = 4.83%, Mobile CR = 4.77%.  
 - CPC & CPA stable across both.  
 
@@ -129,7 +132,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 
 ---
 
-### 🔹 Keyword Analysis  
+### 5.4 Keyword Analysis
 - Top keywords: *Online Data Analytics, Learn Data Analytics, Data Analytics Course* (>2.8K conversions).  
 - CTR healthy at ~3%.  
 
@@ -142,7 +145,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 
 ---
 
-### 🔹 Time Trends  
+### 5.5 Time Trends 
 - Peaks: Nov 14 & Nov 18 (highest conversions).  
 - Dips: Nov 11 & Nov 17.  
 
@@ -154,7 +157,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 
 ---
 
-### 🔹 Portfolio-Level Efficiency  
+### 5.6 Portfolio-Level Efficiency
 - CTR = **3.0%**  
 - CPC = **₹1.56**  
 - CPA = **₹32.69**  
@@ -168,9 +171,9 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 
 ---
 
-## 🚀 Final Notes  
-This project demonstrates how SQL can be used to:  
-- Profile & clean raw ad performance data.  
+## 6. Final Notes  
+This project demonstrates how SQL can be applied to:  
+- Profile and clean raw ad performance data.  
 - Detect anomalies and improve data quality.  
 - Conduct multi-level marketing performance analysis.  
 - Translate raw data into actionable business recommendations.  
