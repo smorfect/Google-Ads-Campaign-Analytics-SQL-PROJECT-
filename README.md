@@ -38,7 +38,7 @@ The goal of this project was to analyze simulated Google Ads data for a Data Ana
 ---
 
 ## 3. Data Structure and Initial Checks  
-The dataset used for this project simulates Google Ads campaign performance for a Data Analytics Course. It contains ~2,600 rows of ad-level records with details on campaign metadata, ad engagement, conversions, and revenue outcomes.
+The dataset used for this project contains ~2,600 rows of ad-level records with details on campaign metadata, ad engagement, conversions, and revenue outcomes.
 
 **Key fields:**  
 - `Ad_ID` → Unique identifier for each ad.  
