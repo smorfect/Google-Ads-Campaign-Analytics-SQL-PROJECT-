@@ -1,6 +1,6 @@
 # Technical Approach
 
-This project followed a structured, multi-step approach to ensure the dataset was cleaned, validated, enriched, and analyzed in a way that reflects real-world data analyst workflows.
+This project follows a structured, multi-step approach to ensure the dataset was cleaned, validated, enriched, and analyzed in a way that reflects real-world data analyst workflows.
 
 ---
 
