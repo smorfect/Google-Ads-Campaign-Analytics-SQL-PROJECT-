@@ -160,7 +160,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 - Peaks: 14th & 25th Nov (highest conversions).  
 - Dips: 6th, 11th & 17th Nov.
 
-<img width="669" height="537" alt="image" src="https://github.com/user-attachments/assets/31e7d9c5-39e1-42b2-a677-a40fa4489a16" />
+<img width="743" height="533" alt="image" src="https://github.com/user-attachments/assets/922b66fa-85d2-442b-bb51-8e0bae6b1645" />
 
 **Recommendations:**  
 - Replicate strategies from peak dates.  
