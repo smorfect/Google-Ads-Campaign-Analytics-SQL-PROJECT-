@@ -121,7 +121,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 - Desktop CR = 4.83%, Mobile CR = 4.77%.  
 - CPC & CPA stable across both.  
 
-📸 *[Insert screenshot of SQL output]*  
+<img width="1022" height="537" alt="image" src="https://github.com/user-attachments/assets/1248ee94-853b-422c-9414-6c7be21028fd" />
 
 **Recommendations:**  
 - Maintain cross-device budget split.
