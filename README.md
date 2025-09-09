@@ -83,7 +83,11 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 - Top keywords drive majority of conversions.  
 - **Next Steps**: Shift budget to Gurgaon + high-performing campaigns/keywords, optimize Hyderabad, and improve Mobile UX.  
 
-📸 *[Insert screenshot of dashboard output here]*  
+<img width="975" height="475" alt="image" src="https://github.com/user-attachments/assets/37fb2235-f04e-412e-a23e-4f9936f41728" />
+
+<img width="975" height="445" alt="image" src="https://github.com/user-attachments/assets/e8928964-f42c-4756-98eb-6f5796f90b66" />
+
+<img width="975" height="454" alt="image" src="https://github.com/user-attachments/assets/44dcfe87-020e-404c-a1fd-87febd337c0f" />
 
 ---
 
