@@ -73,7 +73,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 - **Locations** → *Gurgaon (ROAS 7.07)* led; Bengaluru & Mumbai stable (6.83); Hyderabad underperformed (6.67).  
 - **Devices** → *Desktop (4.83% CR)* slightly ahead of Mobile (4.77%).  
 - **Keywords** → *“Online Data Analytics”* & *“Learn Data Analytics”* delivered >2.8K conversions each.  
-- **Time Trends** → Peaks on *Nov 14 & 18* (highest conversions); dips on *Nov 11 & 17*.  
+- **Time Trends** → Peaks on *Nov 14 & 25* (highest conversions); dips on *Nov 6, 11 & 17*.  
 
 **Key takeaways:**  
 - Campaigns are profitable overall (ROAS 6.85).  
