@@ -157,8 +157,8 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 ### 5.5 Time Trends 
 *Are there specific days with unusually high or low performance?*
 
-- Peaks: Nov 14 & Nov 18 (highest conversions).  
-- Dips: Nov 11 & Nov 17.  
+- Peaks: 14th & 25th Nov (highest conversions).  
+- Dips: 6th, 11th & 17th Nov.
 
 <img width="669" height="537" alt="image" src="https://github.com/user-attachments/assets/31e7d9c5-39e1-42b2-a677-a40fa4489a16" />
 
