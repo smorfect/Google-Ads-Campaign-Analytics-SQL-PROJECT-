@@ -34,7 +34,7 @@ Focus areas:
 
  A brief methodology can be found in [Technical Approach](Approach.md).
 
-🔗 **SQL Scripts**  
+🔗 **SQL Scripts**  (available upon request or in interview)
 - [Profiling & Data Quality Checks](#)  
 - [Cleaning & Standardization](#)  
 - [Analytical Queries (Campaigns, Locations, Devices, Keywords, Time Trends)](#)  
