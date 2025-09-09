@@ -57,7 +57,6 @@ The dataset contains ~2,600 rows of ad-level records with details on campaign me
 - `Device` → Platform (Desktop, Mobile, Tablet).  
 - `Keyword` → Search keyword that triggered the ad.  
 
-📸 *[Insert screenshot of dataset snippet here]*  
 <img width="1161" height="416" alt="image" src="https://github.com/user-attachments/assets/3697c558-ab0a-4aec-ad9f-f71de8ee4048" />
 
 ---
