@@ -110,7 +110,7 @@ The Beginners and Certification campaigns emerged as the top revenue drivers (â‚
 **Recommendations:**  
 - Reallocate incremental spend to Gurgaon.
 - Maintain investment in Bengaluru & Mumbai.
-- Audit Hyderabad campaigns â†’ targeting/creative review.
+- Audit Hyderabad campaigns to ensure correct audience/location targeting and refresh ad creatives to boost engagement.
 
 ---
 
@@ -139,7 +139,7 @@ The Beginners and Certification campaigns emerged as the top revenue drivers (â‚
 **Recommendations:**  
 - Expand around top-performing keywords.  
 - Pause or refine weak long-tail keywords.  
-- Add negative keywords to reduce wasted clicks.  
+- Add negative keywords to prevent ads from appearing on irrelevant searches, thereby reducing wasted clicks and improving conversion efficiency.
 
 ---
 
@@ -172,5 +172,4 @@ The Beginners and Certification campaigns emerged as the top revenue drivers (â‚
 - Test automated bidding to push ROAS above 7.  
 
 ---
-
 
