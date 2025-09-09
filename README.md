@@ -108,7 +108,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 - Bengaluru & Mumbai stable (6.83).  
 - Hyderabad underperformed (6.67).  
 
-📸 *[Insert screenshot of SQL output]*  
+ <img width="931" height="538" alt="image" src="https://github.com/user-attachments/assets/c22399bb-4b4d-4f13-b837-c2a3e38e1c9f" />
 
 **Recommendations:**  
 - Reallocate incremental spend to Gurgaon.  
