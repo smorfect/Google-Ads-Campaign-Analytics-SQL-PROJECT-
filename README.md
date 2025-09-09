@@ -124,8 +124,8 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 📸 *[Insert screenshot of SQL output]*  
 
 **Recommendations:**  
-- Maintain cross-device budget split.  
-- Optimize mobile landing pages.  
+- Maintain cross-device budget split.
+- Optimize mobile landing pages.
 
 ---
 
@@ -133,7 +133,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 - Top keywords: *Online Data Analytics, Learn Data Analytics, Data Analytics Course* (>2.8K conversions).  
 - CTR healthy at ~3%.  
 
-📸 *[Insert screenshot of SQL output]*  
+<img width="1005" height="532" alt="image" src="https://github.com/user-attachments/assets/f5070648-ce6b-4f01-a3d5-4be44789ea41" />
 
 **Recommendations:**  
 - Expand around top-performing keywords.  
@@ -146,7 +146,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 - Peaks: Nov 14 & Nov 18 (highest conversions).  
 - Dips: Nov 11 & Nov 17.  
 
-📸 *[Insert screenshot of SQL output]*  
+<img width="669" height="537" alt="image" src="https://github.com/user-attachments/assets/31e7d9c5-39e1-42b2-a677-a40fa4489a16" />
 
 **Recommendations:**  
 - Replicate strategies from peak dates.  
@@ -160,7 +160,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 - CPA = **₹32.69**  
 - ROAS = **6.85** (very profitable)  
 
-📸 *[Insert screenshot of SQL output]*  
+<img width="960" height="452" alt="image" src="https://github.com/user-attachments/assets/56e95f32-cfa3-4100-97c9-e56a98c8dd45" />
 
 **Recommendations:**  
 - Continue current bidding approach.  
