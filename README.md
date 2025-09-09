@@ -5,11 +5,7 @@ SQL-based end-to-end analysis of simulated Google Ads data — profiling, cleani
 This project simulates the role of a data analyst working with Google Ads campaign data for a **Data Analytics Course**.  
 The dataset represents ad performance metrics (*impressions, clicks, conversions, costs, sales*) across **campaigns, locations, devices, and keywords**.  
 
-The dataset used for this project is publicly available on Kaggle and can be accessed here:  
-[Google Ads Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/nayakganesh007/google-ads-sales-dataset)
-
-The dataset used for this project is publicly available on Kaggle and can be accessed here.
-📂 Dataset: [Google Ads Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/nayakganesh007/google-ads-sales-dataset)  
+The dataset used for this project is publicly available on Kaggle and can be accessed [here](https://www.kaggle.com/datasets/nayakganesh007/google-ads-sales-dataset)
 
 The goal was to treat this dataset as if it were delivered by a business stakeholder and apply professional data analytics practices:  
 - Profiling  
