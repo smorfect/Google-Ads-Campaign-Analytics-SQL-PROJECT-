@@ -94,7 +94,7 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 - Advanced & Training = good but slightly lower ROI.  
 - Conversion rates consistent (~4.6–4.9%).  
 
-📸 *[Insert screenshot of SQL output]*  
+<img width="1005" height="536" alt="image" src="https://github.com/user-attachments/assets/312cff34-67aa-4ebd-bfcf-e8562972709a" />
 
 **Recommendations:**  
 - Keep investing in Beginners & Certification.  
