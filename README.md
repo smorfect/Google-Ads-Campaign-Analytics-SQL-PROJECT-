@@ -159,6 +159,8 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 ---
 
 ### 5.6 Portfolio-Level Efficiency
+*What is the portfolio-wide efficiency across CTR, CPC, CPA, and ROAS?*
+
 - CTR = **3.0%**  
 - CPC = **₹1.56**  
 - CPA = **₹32.69**  
