@@ -74,7 +74,7 @@ The Beginners and Certification campaigns emerged as the top revenue drivers (â‚
 - Top keywords drive majority of conversions.  
 - **Next Steps**: Shift budget to Gurgaon + high-performing campaigns/keywords, optimize Hyderabad, and improve Mobile UX.  
 
-<img width="975" height="475" alt="image" src="https://github.com/user-attachments/assets/37fb2235-f04e-412e-a23e-4f9936f41728" />
+<img width="1035" height="535" alt="image" src="https://github.com/user-attachments/assets/a77a33bf-ec13-458a-b11c-a418b3cc2a2c" />
 
 <img width="975" height="445" alt="image" src="https://github.com/user-attachments/assets/e8928964-f42c-4756-98eb-6f5796f90b66" />
 
