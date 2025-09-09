@@ -17,7 +17,7 @@ The goal was to treat this dataset as if it were delivered by a business stakeho
 The following are the key areas for gathering insights as they directly influence marketing ROI and business decision-making:  
 - **Campaign Performance** → Identify which campaigns drive the most revenue & conversions.  
 - **Location Effectiveness** → Highlight high-ROI geographies for budget allocation.  
-- **Device Insights** → Assess Desktop vs. Mobile efficiency to guide optimization.  
+- **Device Insights** → Assess Desktop vs. Mobile vs. Tablet efficiency to guide optimization.  
 - **Keyword Analysis** → Evaluate which keywords bring the most qualified traffic.  
 - **Time Trends** → Detect daily performance patterns & opportunities for scheduling/promotions.  
 
@@ -64,13 +64,13 @@ The dataset contains ~2,600 rows of ad-level records with details on campaign me
 ## 4. Executive Summary  
 
 In November 2024, simulated Google Ads data for the Data Analytics Course campaigns was analyzed across 2,600 ad records. Overall portfolio performance was strong, delivering a Return on Ad Spend (ROAS) of 6.85, with more than 345K clicks generated from 11.5M impressions at an average CTR of 3.0%. 
-The Beginners and Certification campaigns emerged as the top revenue drivers (₹750K each), while Advanced and Training – Online contributed slightly lower returns. At the city level, Gurgaon outperformed all markets with ROAS 7.07, followed by Bengaluru (6.83) and Mumbai (6.83), whereas Hyderabad lagged at 6.67 despite high volume. Device analysis revealed Desktop conversions (4.83%) slightly outpaced Mobile (4.77%), with cost efficiency stable across both. Keyword-level insights highlighted “Online Data Analytics” and “Learn Data Analytics” as the top-performing drivers, each exceeding 2,800 conversions at ~3% CTR. Finally, time trend analysis showed revenue peaks on Nov 14 and Nov 25, aligning with likely campaign pushes, while dips on Nov 6, 11 and Nov 17 suggest delivery or targeting inefficiencies.
+The Beginners and Certification campaigns emerged as the top revenue drivers (₹750K each), while Advanced and Training – Online contributed slightly lower returns. At the city level, Gurgaon outperformed all markets with ROAS 7.07, followed by Bengaluru (6.83) and Mumbai (6.83), whereas Hyderabad lagged at 6.67 despite high volume. Device analysis revealed Desktop conversions (4.83%) slightly outpaced Mobile (4.77%) and Tablet (4.69%), with cost efficiency stable across both. Keyword-level insights highlighted “Online Data Analytics” and “Learn Data Analytics” as the top-performing drivers, each exceeding 2,800 conversions at ~3% CTR. Finally, time trend analysis showed revenue peaks on Nov 14 and Nov 25, aligning with likely campaign pushes, while dips on Nov 6, 11 and Nov 17 suggest delivery or targeting inefficiencies.
 
 **Key takeaways:**  
 - Campaigns are profitable overall (ROAS 6.85).  
 - Beginners & Certification = key revenue drivers.  
 - Gurgaon = most efficient market.  
-- Desktop slightly outperforms Mobile.  
+- Desktop slightly outperforms Mobile and Tablet.  
 - Top keywords drive majority of conversions.  
 - **Next Steps**: Shift budget to Gurgaon + high-performing campaigns/keywords, optimize Hyderabad, and improve Mobile UX.  
 
@@ -117,10 +117,11 @@ The Beginners and Certification campaigns emerged as the top revenue drivers (�
 ---
 
 ### 5.3 Device Insights
-*Do users convert better on Desktop or Mobile?*
+*Do users convert better on Desktop, Mobile or Tablet?*
 
-- Desktop CR = 4.83%, Mobile CR = 4.77%.  
-- CPC & CPA stable across both.  
+- Desktop (4.83% conversion rate) slightly outperformed Mobile (4.77%) and Tablet (4.69%).
+- CPC and CPA were nearly identical across devices.
+
 
 <img width="1022" height="537" alt="image" src="https://github.com/user-attachments/assets/1248ee94-853b-422c-9414-6c7be21028fd" />
 
