@@ -32,7 +32,7 @@ Focus areas:
 - Enriched dataset by simulating campaigns and redistributing locations for realistic variation.  
 - Conducted multi-level SQL analysis (campaign, location, device, keyword, time, portfolio) and built a performance dashboard view.  
 
- Full methodology can be found here (Appendix)
+ A brief methodology can be found in [Technical Approach](approach.md).
 
 🔗 **SQL Scripts**  
 - [Profiling & Data Quality Checks](#)  
