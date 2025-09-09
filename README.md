@@ -93,7 +93,9 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 
 ## 5. Insights Deep Dive & Recommendations  
 
-### 5.1 Campaign Performance 
+### 5.1 Campaign Performance
+*Which campaigns deliver the highest ROI?*
+
 - Beginners & Certification = highest revenue (~₹750K each).  
 - Advanced & Training = good but slightly lower ROI.  
 - Conversion rates consistent (~4.6–4.9%).  
@@ -107,7 +109,9 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 
 ---
 
-### 5.2 Location Effectiveness 
+### 5.2 Location Effectiveness
+*Which locations maximize revenue efficiency?*
+
 - Gurgaon = strongest (ROAS 7.07).  
 - Bengaluru & Mumbai stable (6.83).  
 - Hyderabad underperformed (6.67).  
@@ -121,7 +125,9 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 
 ---
 
-### 5.3 Device Insights 
+### 5.3 Device Insights
+*Do users convert better on Desktop or Mobile?*
+
 - Desktop CR = 4.83%, Mobile CR = 4.77%.  
 - CPC & CPA stable across both.  
 
@@ -134,6 +140,8 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 ---
 
 ### 5.4 Keyword Analysis
+*Which keywords drive the most conversions?*
+
 - Top keywords: *Online Data Analytics, Learn Data Analytics, Data Analytics Course* (>2.8K conversions).  
 - CTR healthy at ~3%.  
 
@@ -147,6 +155,8 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 ---
 
 ### 5.5 Time Trends 
+*Are there specific days with unusually high or low performance?*
+
 - Peaks: Nov 14 & Nov 18 (highest conversions).  
 - Dips: Nov 11 & Nov 17.  
 
