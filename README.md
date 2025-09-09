@@ -168,11 +168,4 @@ In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.
 
 ---
 
-## 6. Final Notes  
-This project demonstrates how SQL can be applied to:  
-- Profile and clean raw ad performance data.  
-- Detect anomalies and improve data quality.  
-- Conduct multi-level marketing performance analysis.  
-- Translate raw data into actionable business recommendations.  
-
 
