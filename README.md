@@ -62,18 +62,9 @@ The dataset contains ~2,600 rows of ad-level records with details on campaign me
 ---
 
 ## 4. Executive Summary  
-In **November 2024**, simulated Google Ads data (2,600 ad records) was analyzed.  
 
-**Portfolio results:**  
-- ROAS = **6.85** (profitable)  
-- Impressions = **11.5M**, Clicks = **345K**, CTR = **3.0%**  
-
-**Highlights:**  
-- **Campaigns** → *Beginners & Certification* campaigns drove ~₹750K each; Advanced & Training slightly lower.  
-- **Locations** → *Gurgaon (ROAS 7.07)* led; Bengaluru & Mumbai stable (6.83); Hyderabad underperformed (6.67).  
-- **Devices** → *Desktop (4.83% CR)* slightly ahead of Mobile (4.77%).  
-- **Keywords** → *“Online Data Analytics”* & *“Learn Data Analytics”* delivered >2.8K conversions each.  
-- **Time Trends** → Peaks on *Nov 14 & 25* (highest conversions); dips on *Nov 6, 11 & 17*.  
+In November 2024, simulated Google Ads data for the Data Analytics Course campaigns was analyzed across 2,600 ad records. Overall portfolio performance was strong, delivering a Return on Ad Spend (ROAS) of 6.85, with more than 345K clicks generated from 11.5M impressions at an average CTR of 3.0%. 
+The Beginners and Certification campaigns emerged as the top revenue drivers (₹750K each), while Advanced and Training – Online contributed slightly lower returns. At the city level, Gurgaon outperformed all markets with ROAS 7.07, followed by Bengaluru (6.83) and Mumbai (6.83), whereas Hyderabad lagged at 6.67 despite high volume. Device analysis revealed Desktop conversions (4.83%) slightly outpaced Mobile (4.77%), with cost efficiency stable across both. Keyword-level insights highlighted “Online Data Analytics” and “Learn Data Analytics” as the top-performing drivers, each exceeding 2,800 conversions at ~3% CTR. Finally, time trend analysis showed revenue peaks on Nov 14 and Nov 25, aligning with likely campaign pushes, while dips on Nov 6, 11 and Nov 17 suggest delivery or targeting inefficiencies.
 
 **Key takeaways:**  
 - Campaigns are profitable overall (ROAS 6.85).  
