@@ -40,6 +40,6 @@ This project follows a structured, multi-step approach to ensure the dataset was
   - **Keyword performance** → CTR and conversions by keyword.  
   - **Time trends** → daily impressions, clicks, conversions, revenue.  
   - **Portfolio-level metrics** → CTR, CPC, CPA, ROAS.  
-- Created a **Performance Dashboard View** in SQL for ongoing monitoring of KPIs across campaigns, locations, and devices.  
+- Created a **Performance View** in SQL for ongoing monitoring of KPIs across campaigns, locations, and devices.  
 
 ---
