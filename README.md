@@ -24,9 +24,8 @@ The following are the key areas for gathering insights as they directly influenc
 ---
 
 ## 2. Objective  
-The goal of this project was to analyze simulated Google Ads data for a Data Analytics Course campaign.  
+The goal of this project was to analyze simulated Google Ads data for a Data Analytics Course campaign. The focus areas are:  
 
-Focus areas:  
 - Profiled dataset for missing values, anomalies, and categorical consistency.  
 - Cleaned and standardized campaign, location, device, and keyword fields; flagged quality issues.  
 - Enriched dataset by simulating campaigns and redistributing locations for realistic variation.  
